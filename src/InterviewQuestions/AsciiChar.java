@@ -12,6 +12,7 @@ public class AsciiChar {
 		
 		int cahr = scan.next().charAt(0);
 		System.out.println(cahr);
+		
 
 	}
 
