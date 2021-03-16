@@ -1,4 +1,4 @@
-package InterviewQuestions;
+  package InterviewQuestions;
 
 import java.util.Scanner;
 
@@ -19,7 +19,6 @@ public class FactorialNumber {
 		}
 		System.out.println("factorial is: " + fact);
 		int j = 1;
-
 		// second way
 		while (j <= number) {
 			fact1 = fact1 * j;
@@ -27,5 +26,4 @@ public class FactorialNumber {
 		}
 		System.out.println("factorial is: " + fact1);
 	}
-
 }
